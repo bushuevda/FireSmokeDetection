@@ -1,5 +1,13 @@
+# Fire and smoke detection with yolo8
+* [Parameters and results of model training](#parameters-and-results-of-model-training)
+* [Benchmarks](#benchmarks)
+* [Testing models on video](#testing-models-on-video)
+  * [Model 9 test video 1](#model-9-test-video-1)
+  * [Model 10 test video 1](#model-10-test-video-1)
+  * [Model 9 test video 2](#model-9-test-video-2)
+  * [Model 10 test video 2](#model-10-test-video-2)
 
-# Parameters and results of model training
+## Parameters and results of model training
 <table>
     <thead>
         <tr>
@@ -60,7 +68,7 @@
     </tbody>
 </table>
 
-# Benchmarks
+## Benchmarks
 <table>
     <thead>
         <tr>
@@ -163,7 +171,7 @@
 </table>
 
 
-# Test models
+## Testing models on video
 ### Model 9 test video 1
 
 https://github.com/user-attachments/assets/7b1a10f9-175b-4b31-9517-bf8201da17e5
